@@ -6,6 +6,6 @@ Take a look at the:
 - Data (raw files linked in repository)
 - [Final Report](https://drive.google.com/file/d/1FFf415d_re_dcekTClpMJnBbRyAgj51N/view?usp=sharing)
 
-<p align="center">
-<img width="849" alt="Screen Shot 2022-10-26 at 1 25 37 PM" src="https://user-images.githubusercontent.com/53825687/198118572-8ede16be-b29c-4301-9232-060ded702ebb.png">
-  </p>
+![Screenshot 2024-05-21 at 2 31 23 PM](https://github.com/cameronmirh/Fintech_Analysis/assets/53825687/e40f62bc-1721-44b3-96de-1ca3d2a226ad)
+
+![Screenshot 2024-05-21 at 2 31 15 PM](https://github.com/cameronmirh/Fintech_Analysis/assets/53825687/f45ed61c-196d-4ecf-b6d9-e0ab952e7c5b)
